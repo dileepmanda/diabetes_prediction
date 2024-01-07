@@ -35,4 +35,4 @@ Our logistic regression model was able to predict the diabetes with an accuracy 
 Conclusion :
 We explored the dataset, built our model using the Logistic Regression, and evaluated its performance using various metrics. The Logistic regression gave an accuracy score of 79%, indicating that it can be used to predict the likelihood of developing diabetes early.
 
-Linkedin: https://www.linkedin.com/in/neeraj-kumar-sharma-a4734b280/
+Linkedin:https://www.linkedin.com/in/dileep-manda-7988a5248/
